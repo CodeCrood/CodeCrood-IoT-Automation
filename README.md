@@ -36,11 +36,11 @@ CodeCrood develops innovative IoT systems, integrating web and mobile interfaces
 ### **Setup**
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/CodeCrood.git
+   git clone https://github.com/CodeCrood/smart-iot-world
    ```
 2. **Navigate to the backend folder**:  
    ```bash
-   cd CodeCrood/backend
+   cd backend
    ```
 3. **Install dependencies**:  
    ```bash
