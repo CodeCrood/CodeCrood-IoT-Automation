@@ -1,5 +1,5 @@
 
-# Smart IoT Systems
+# Smart IoT World
 
 Welcome to **Smart IoT World** – a repository for various **IoT projects** developed by **CodeCrood**. This repository aims to build and deploy **smart automation solutions** using multiple platforms, including **React** for frontend user interfaces, **Node.js** for server-side logic, **NodeMCU (ESP8266)** for sensor and actuator control, and **Raspberry Pi** for machine learning applications.
 
